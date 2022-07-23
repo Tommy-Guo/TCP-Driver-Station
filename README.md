@@ -1,6 +1,6 @@
 # TCP-Driver-Station
 
-This is a custom diver station with a custom skin written to control simple robots over a TCP connection. For my case, I used a Raspberry Pi as a controller on a mini robot. I used a wired Logitech Gamepad F310 controller as an input, it will work with other controllers but your mileage may vary. The purpose of sharing this is mainly for educational purposes but can be useful if you write your own client to connect to.
+This is a custom driver station with a custom skin written to control simple robots over a TCP connection. For my case, I used a Raspberry Pi as a controller on a mini robot. I used a wired Logitech Gamepad F310 controller as an input, it will work with other controllers but your mileage may vary. The purpose of sharing this is mainly for educational purposes but can be useful if you write your own client to connect to.
 
 For those who have had the amazing pleasure of participating in FRC will surely recognize the theme's likeness to the FRC driver station it's design was based off of ;)
 
